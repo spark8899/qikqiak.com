@@ -2,7 +2,18 @@
 
 个人博客，地址：[https://www.qikqiak.com](https://www.qikqiak.com)
 
-[优点知识](https://youdianzhishi.com)、[快课星球](https://fastclass.cn)、[ReadGenius](https://readgenius.net)、[ClaudeMCP](https://www.claudemcp.com)、[ToMarkdown](https://www.tomarkdown.org)
+* [优点知识](https://youdianzhishi.com)
+* [快课星球](https://fastclass.cn)
+* [ASMR Videos](https://www.asmr.so)
+* [Manus](https://www.manusai.io)
+* [MCP](https://www.claudemcp.com)
+* [ToMarkdown](https://www.tomarkdown.org)
+* [DeepSite](https://www.deepsite.app)
+* [Calculator Online](https://www.calculatoronline.io)
+* [Compress.run](https://www.compress.run)
+* [WebP to JPG](https://www.webptojpg.app)
+* [Color Block Jam Level](https://www.colorblockjamlevel.app)
+* [Invincible Title Card](https://www.invincibletitlecardgenerator.com)
 
 > 关注 AI、容器、`kubernetes`、devops、python、golang、微服务等技术。
 
